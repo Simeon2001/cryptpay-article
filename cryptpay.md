@@ -239,9 +239,9 @@ This process ensures that new users are verified via email and their initial sta
 ### Generating BSC/ETH Addresses: A Deep Dive into the Process
 
 <p float="left">
-  <img src="swagger_gen.png" height="250" width="500" />
+  <img src="swagger_gen.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="swagger_gen_res.png" height="250" width="500" />
+  <img src="swagger_gen_res.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -314,9 +314,9 @@ By following this structured approach, developers can securely generate and mana
 ### Checking for Payments to the Generated Address
 
 <p float="left">
-  <img src="swagger_check.png" height="250" width="700" />
+  <img src="swagger_check.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="swagger_check_res.png" height="250" width="500" />
+  <img src="swagger_check_res.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
