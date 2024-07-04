@@ -165,7 +165,7 @@ These tasks are scheduled and distributed using [**Django Q**](https://django-q2
 
 #### External Blockchain Data API
 
-Cryptpay uses an external Blockchain Data API(covalent API) to query generated addresses and check if any transactions have occurred. This API helps in tracking deposits and managing the fund transfers securely and efficiently.
+Cryptpay uses an external Blockchain Data API([**covalent API**](https://www.covalenthq.com)) to query generated addresses and check if any transactions have occurred. This API helps in tracking deposits and managing the fund transfers securely and efficiently.
 
 By leveraging Django, Django Q, Redis, and blockchain nodes, Cryptpay provides a robust and scalable solution for managing stablecoin transactions. The architecture ensures secure, real-time processing of payments and notifications, making it a reliable choice for blockchain-based payment systems.
 
@@ -245,6 +245,7 @@ This process ensures that new users are verified via email and their initial sta
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+   *API endpoint to generate eth or bsc address to receive stablecoin.*
 
 When building decentralized applications (dApps) or blockchain-related services, generating unique cryptocurrency addresses is a fundamental operation. In this subtopic, we'll explore how to generate BSC/ETH addresses, focusing on the interaction with the "generate address" API endpoint and the associated database operations. We'll also delve into the address generation logic and how it's securely implemented.
 
