@@ -1,4 +1,5 @@
 <div align="center">
+You can read the original article at: [Building Cryptpay: A Blockchain Powered Stablecoin Payment Infrastructure Web API](https://dev.to/simeon2001/building-cryptpay-a-blockchain-powered-stablecoin-payment-infrastructure-web-api-k20)
 
 # Building Cryptpay: A Blockchain Powered Stablecoin Payment infrastructure Web API
 </div>
